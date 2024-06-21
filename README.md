@@ -109,6 +109,8 @@ interactive_password_generator/
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
+This entire thing was spat out from a ChatGPT 4o session. It has received no extensive testing, no peer-review, and no reason to believe it's secure. Use and/or extend at your own risk. From in-house testing it seems to do what it's supposed to and the code isn't exactly breaking any grounds in complexity. haha
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
